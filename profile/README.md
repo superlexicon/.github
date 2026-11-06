@@ -1,9 +1,14 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/superlexicon/.github/main/assets/header_banner.png" alt="SuperLexicon" width="100%" />
+  <a href="https://www.superlexicon.com">
+    <img src="https://raw.githubusercontent.com/superlexicon/.github/main/assets/header_banner.png" alt="SuperLexicon" width="100%" />
+  </a>
 
   <h3>Radio-Native Layer-1 Blockchain &amp; Decentralized Mesh Ecosystem</h3>
   <p>
     <strong>Zero Internet Dependency • 2.6 Mbps Semtech LR2021 FLRC • Deterministic TDMA-BFT Consensus • 5–6s Block Finality</strong>
+  </p>
+  <p>
+    🌐 <strong>Interactive Architecture, Live Testnet Telemetry &amp; Full Presentation: <a href="https://www.superlexicon.com">www.superlexicon.com</a></strong>
   </p>
 </div>
 
@@ -14,6 +19,8 @@
 **SuperLexicon** is an infrastructure-independent Layer-1 blockchain and decentralized application ecosystem built from the ground up to operate directly over **Sub-GHz (915 MHz) and 2.4 GHz radio spectrum** using the **Semtech LR2021** transceiver in **FLRC (Fast Long-Range Communication)** mode.
 
 While traditional blockchains collapse when ISP backbones, submarine cables, BGP routing, or cloud data centers are disrupted or censored, **Lexicon** achieves **225–240 transactions per block** with **5.6-second finality** over pure peer-to-peer RF links—no fiber, no cell towers, and no internet required.
+
+> **Explore the full technical & financial presentation, hardware ecosystem, and live testnet dashboard at [www.superlexicon.com](https://www.superlexicon.com).**
 
 ---
 
