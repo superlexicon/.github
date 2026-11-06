@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/superlexicon/.github/main/assets/logo_horizontal_transparent.png" alt="SuperLexicon" width="440" />
+  <img src="https://raw.githubusercontent.com/superlexicon/.github/main/assets/header_banner.png" alt="SuperLexicon" width="100%" />
 
   <h3>Radio-Native Layer-1 Blockchain &amp; Decentralized Mesh Ecosystem</h3>
   <p>
